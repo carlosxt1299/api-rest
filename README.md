@@ -42,4 +42,7 @@ Este proyecto consiste en el diseño y construcción de un backend funcional uti
 - Proyecto creado con fines educativos para comprender la Arquitectura por Capas en NestJS.
 - ¡Sugerencias y contribuciones son bienvenidas!
 
+## Video de demostración d los 5 endpoints
+https://youtu.be/uDEaIvZTtTo
 ---
+
