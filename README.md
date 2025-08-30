@@ -1,4 +1,4 @@
-# Tarea 6: Mi Primera API REST con NestJS
+#API REST con NestJS
 
 ## 🎯 Objetivo
 
